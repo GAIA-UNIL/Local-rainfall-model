@@ -3,7 +3,7 @@ This code allows for model calibration and stochastic simulation using a space-t
 
 Written by: Lionel Benoit - University of Lausanne - Institute of Earth Surface Dynamics
 
-Refeence: Benoit, L., and G. Mariethoz (2017), Generating synthetic rainfall with geostatistical simulations, Wiley Interdisciplinary Reviews: Water, 4(2), e1199-n/a, 10.1002/wat2.1199.
+Refeence: Benoit, L., D. Allard, and G. Mariethoz (2018), Stochastic Rainfall Modeling at Sub-kilometer Scale, Water Resour. Res., 54(6), 4108-4130, 10.1029/2018WR022817.
 
 How to use it?
 (1) Example datasets are available in the Data folder.
